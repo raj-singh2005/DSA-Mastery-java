@@ -1,2 +1,2 @@
 # DSA-Mastery-java
-DSA journey in Java - Striver A2Z
+DSA journey in Java - NeetCode 250
