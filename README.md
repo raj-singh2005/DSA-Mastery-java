@@ -7,6 +7,7 @@ DSA journey in Java - NeetCode 250
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0014-longest-common-prefix/) | Easy |
 | [0217-contains-duplicate](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0217-contains-duplicate/) | Easy |
 | [1929-concatenation-of-array](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
@@ -27,5 +28,10 @@ DSA journey in Java - NeetCode 250
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0014-longest-common-prefix/) | Easy |
 | [0242-valid-anagram](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0242-valid-anagram/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
