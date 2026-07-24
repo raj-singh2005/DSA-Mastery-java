@@ -9,6 +9,7 @@ DSA journey in Java - NeetCode 250
 | [0001-two-sum](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0027-remove-element/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0217-contains-duplicate/) | Easy |
 | [1929-concatenation-of-array](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
@@ -39,4 +40,9 @@ DSA journey in Java - NeetCode 250
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0027-remove-element/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
