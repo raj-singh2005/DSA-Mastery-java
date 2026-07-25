@@ -10,6 +10,7 @@ DSA journey in Java - NeetCode 250
 | [0014-longest-common-prefix](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0217-contains-duplicate/) | Easy |
 | [1929-concatenation-of-array](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/1929-concatenation-of-array/) | Easy |
@@ -42,6 +43,7 @@ DSA journey in Java - NeetCode 250
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
