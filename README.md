@@ -34,6 +34,7 @@ DSA journey in Java - NeetCode 250
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0014-longest-common-prefix/) | Easy |
 | [0242-valid-anagram](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0242-valid-anagram/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ DSA journey in Java - NeetCode 250
 | [0027-remove-element](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/raj-singh2005/DSA-Mastery-java/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
